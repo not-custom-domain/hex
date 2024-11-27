@@ -14,4 +14,4 @@ Saoirse is having a bit of an existential moment, or maybe she's just a wise old
 
 Here's a photo of us in easier, less heavy times (last week)...
 
-![yo yo]({{ site.baseurl }}/assets/images/2023/64c1fce118be4e00.jpg)
+![](/assets/images/2023/64c1fce118be4e00.jpg)
