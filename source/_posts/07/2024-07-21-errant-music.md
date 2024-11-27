@@ -6,15 +6,15 @@ date: "2024-07-21"
 
 As part of the Errant Festival there were several concerts. There was Brian Caffery from Ireland.
 
-![yo yo]({{ site.baseurl }}/assets/images/2024/20240720_204118.jpg)
+![](/assets/images/2024/20240720_204118.jpg)
 
 Panoramic shot of the plaça.
 
-![yo yo]({{ site.baseurl }}/assets/images/2024/20240720_211716.jpg)
+![](/assets/images/2024/20240720_211716.jpg)
 
 Moody green lights.
 
-![yo yo]({{ site.baseurl }}/assets/images/2024/1000025712.jpg)
+![](/assets/images/2024/1000025712.jpg)
 
 There was also Sandra Monfort from Valencià, who did a version of Bizarre Love Triangle.
 
