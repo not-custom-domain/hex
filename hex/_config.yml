@@ -96,8 +96,15 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: gandalfr
 
+# Dependent on the hexo-generator-archive plugin
+archive_generator:
+    per_page: 0
+    yearly: false
+    monthly: false
+    daily: false
+    
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
